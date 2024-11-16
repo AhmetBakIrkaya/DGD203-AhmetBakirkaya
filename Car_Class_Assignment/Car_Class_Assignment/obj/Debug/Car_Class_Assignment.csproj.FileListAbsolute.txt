@@ -1,0 +1,6 @@
+C:\Users\ahmet\RiderProjects\Car_Class_Assignment\Car_Class_Assignment\obj\Debug\Car_Class_Assignment.csproj.AssemblyReference.cache
+C:\Users\ahmet\RiderProjects\Car_Class_Assignment\Car_Class_Assignment\obj\Debug\Car_Class_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\RiderProjects\Car_Class_Assignment\Car_Class_Assignment\bin\Debug\Car_Class_Assignment.exe
+C:\Users\ahmet\RiderProjects\Car_Class_Assignment\Car_Class_Assignment\bin\Debug\Car_Class_Assignment.pdb
+C:\Users\ahmet\RiderProjects\Car_Class_Assignment\Car_Class_Assignment\obj\Debug\Car_Class_Assignment.exe
+C:\Users\ahmet\RiderProjects\Car_Class_Assignment\Car_Class_Assignment\obj\Debug\Car_Class_Assignment.pdb
